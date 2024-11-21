@@ -1,0 +1,43 @@
+7
+1. Code nay la cua ai?
+Ngoc Mai
+Thu Hang
+Phuong Thao
+Nhom 22
+3
+2. Ngay sinh cua Phuong Thao?
+16/1
+28/11
+27/7
+16/12
+3
+3. Ngay sinh cua Thu Hang?
+27/11
+28/11
+27/7
+29/7
+0
+4. Ngay sinh cua Ngoc Mai?
+25/12
+28/11
+27/7
+29/7
+0
+5. 1 + 1 = ?
+2
+3
+4
+5
+0
+6. Ai la giang vien mon CTDL&GT
+Thay Hoang Van Thong
+Thay Pham Xuan Tich 
+Thay Nguyen Viet Hung
+Thay Le Dinh Duong 
+2
+7. Lop CNTT4 co bao nhieu ban nu?
+2
+4
+1
+5
+3
